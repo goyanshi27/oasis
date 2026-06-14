@@ -1,0 +1,67 @@
+
+Based on the Exploratory Data Analysis of the McDonald's Menu dataset (260 items):
+
+─────────────────────────────────────────────────────────────────────────────
+A.  HEALTH-CONSCIOUS MENU STRATEGY
+─────────────────────────────────────────────────────────────────────────────
+  1. Reduce sodium in high-risk categories.
+     Breakfast and Beef & Pork items average >1,000 mg sodium per serving —
+     well above the 500 mg "per meal" guideline. Reformulate sauces and
+     seasonings (e.g., lower-sodium cheese blends, reduced-salt biscuit
+     recipes) to appeal to health-aware customers.
+
+  2. Introduce calorie-capped combo meals.
+     The calorie range spans 20–2,310 kcal. Promote pre-built combos that
+     stay under 600 kcal, leveraging already-lean items (e.g., Egg White
+     Delight 250 kcal, Side Salad ~20 kcal) to address growing nutritional
+     awareness.
+
+  3. Expand high-protein, lower-fat options.
+     Grilled chicken items top the protein-density chart. Adding 2–3 new
+     grilled or baked protein-centric items (wraps, power bowls) can attract
+     fitness-focused demographics without cannibalising existing sales.
+
+─────────────────────────────────────────────────────────────────────────────
+B.  PRODUCT & CATEGORY MIX
+─────────────────────────────────────────────────────────────────────────────
+  4. Rationalise the Breakfast lineup.
+     Breakfast has the largest item count (>45 SKUs) but high redundancy
+     (many biscuit variants). Streamlining to a core range reduces supply
+     chain complexity while focusing marketing spend.
+
+  5. Grow the Salads & Low-calorie segment.
+     Salads account for only ~7 items. A wider variety (grain bowls, protein
+     salads, seasonal options) can capture lunch and dinner health segments
+     without large kitchen investments.
+
+  6. Watch the Smoothies & Shakes sugar load.
+     Smoothies and shakes show the highest average sugar content (>60 g).
+     Offering unsweetened or reduced-sugar variants, or smaller portion
+     sizes, can address regulatory pressure and sugar-tax risks.
+
+─────────────────────────────────────────────────────────────────────────────
+C.  CUSTOMER TARGETING & MARKETING
+─────────────────────────────────────────────────────────────────────────────
+  7. Create tiered "Nutrition Badges".
+     Tag menu items with clear labels (High Protein, Low Cal, Low Sodium)
+     on digital menus and the app, making healthy choices frictionless —
+     a key driver for Millennial and Gen-Z customers.
+
+  8. Upsell healthier add-ons.
+     Correlation analysis shows Calories ↔ Total Fat are highly correlated
+     (r ≈ 0.80). Pairing high-fat entrées with low-fat sides (salads, apple
+     slices, water) in digital order flows can improve perceived brand
+     healthfulness while maintaining average order value.
+
+  9. Leverage Breakfast as a retention tool.
+     Breakfast has high variety and consistent protein levels. Loyalty-app
+     promotions (e.g., "earn double points before 10 AM") can drive morning
+     visit frequency, one of the highest-margin day-parts.
+
+─────────────────────────────────────────────────────────────────────────────
+D.  DATA & MONITORING
+─────────────────────────────────────────────────────────────────────────────
+ 10. Integrate actual sales data for ROI modelling.
+     This dataset contains only nutritional specs — no pricing or sales
+     volumes. Merging POS transaction data would allow revenue-weighted
+     analysis, seasonal demand forecasting, and true time-series modelling.
